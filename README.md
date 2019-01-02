@@ -28,3 +28,4 @@ Examples:
 ┏ ┓  
 ┗ ┛  
 
+Note: these squares may look malformed on mobile browsers
